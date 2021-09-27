@@ -1,0 +1,4 @@
+feature,value,min,max,nominal,control_limit,num_feature,parts,serial#
+#1 AOL,0,2.49,2.51,2.5,0.008,3,0,0
+#2 OD,0,1.75,1.875,1.8125,0.05,3,0,0
+#3 ID,0,1.245,1.255,1.25,0.004,3,0,0
